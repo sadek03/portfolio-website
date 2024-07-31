@@ -32,7 +32,8 @@ export default function About() {
         . I am also involved in developing mobile applications using{" "}
         <span className="font-medium">React Native</span>. I am always looking
         to learn new technologies and improve my skills. I am currently working
-        as a web developer with an Assam-based startup named{" "}
+        as a web developer with an Assam-based startup named bdhvbnvn xfhgxf
+        ghsvhg
         <span className="font-medium">growhub.shop</span> for the last year. My
         core stack includes{" "}
       </p>
